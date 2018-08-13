@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST=smart-sdk-mongodb
+HOST=mongo
 PORT=27017
 DATABASE=smartcity
 
