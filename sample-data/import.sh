@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOST=${GR_MONGO}
+HOST=${GR_MONGO_HOST}
 PORT=27017
 DATABASE=smartcity
 
